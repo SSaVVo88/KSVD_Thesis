@@ -1,0 +1,39 @@
+# === PYTHON ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# === ENVIRONMENTS ===
+env/
+venv/
+.venv/
+
+# === DATASETS ===
+PDFS/
+data/
+datasets/
+CBSD68/
+*.png
+*.jpg
+*.jpeg
+
+# === DOCUMENTS / PDFs ===
+*.pdf
+
+# === NOTEBOOK CHECKPOINTS ===
+.ipynb_checkpoints/
+
+# === LARGE FILES / MODELS ===
+results/
+checkpoints/
+*.npy
+*.npz
+
+# === OS FILES ===
+.DS_Store
+Thumbs.db
+
+# === CLONED EXTERNAL REPOS ===
+external/
